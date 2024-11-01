@@ -9,5 +9,5 @@
 </div>
 
 <div id="viewprof" align="center" >
-  <img scr="https://komarev.com/ghpvc/?username=Nina546654ml&style=flat-square&color=blue" alt=""/>
+  <img scr="https://komarev.com/ghpvc/?username=Nina Klimchenko&style=flat-square&color=blue" alt=""/>
 </div>
