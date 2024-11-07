@@ -37,5 +37,5 @@
 ### :trophy: Достижения : 
 
 <div> 
-    <img src="https://github-profile-trophy.vercel.app/?username=ninel738" alt=""/>  
+    <img src="https://github-profile-trophy.vercel.app/?username=ninel738" alt="GitHub Profile Trophy"/>  
 </div>
