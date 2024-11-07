@@ -24,15 +24,6 @@
 - :gem: Увлекаюсь психологией
 
 
-### :hammer_and_wrench: Языки и инструменты :
-
-<div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
-</div>
 
 
 ### :trophy: Достижения : 
@@ -41,11 +32,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Nina546654ml" alt=""/>  
 </div>
 
-### :keyboard: Наиболее используемые языки :
-
-<div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nina546654ml" alt=""/>  
-</div>
 
 ### :bar_chart: Статистика активности :
 
