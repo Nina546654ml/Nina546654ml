@@ -37,14 +37,21 @@
 ### :trophy: Достижения : 
 
 <div> 
-    <img src="https://github-profile-trophy.vercel.app/?username=ninel738" alt=""/>  
+    <img src="https://github-profile-trophy.vercel.app/?username=Nina546654ml" alt=""/>  
 </div>
 
 ### :keyboard: Наиболее используемые языки :
 
 <div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninel738" alt=""/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nina546654ml" alt=""/>  
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nina546654ml&theme=github-compact" alt=""/>  
+</div>
+
 
 
 
